@@ -1,0 +1,40 @@
+body {
+    background-color: gray;
+
+}
+
+.exercicio {
+    background-color: white;
+     height: 500px;
+     width: 50vw;
+     border: dotted black 10px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+
+}
+
+.filha1 {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+
+}
+
+.filha2 {
+    background-color: rgb(255, 140, 0);
+    height: 100px;
+    width: 30%;
+
+}
+
+.filha3 {
+    background-color: rgb(0, 128, 0);
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    
+
+}
